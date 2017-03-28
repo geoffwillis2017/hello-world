@@ -1,2 +1,3 @@
 # hello-world
-A hello world repository
+Hi there!
+This is  a brief welcome. Welcome!
